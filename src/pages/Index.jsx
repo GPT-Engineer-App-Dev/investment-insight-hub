@@ -3,7 +3,7 @@ import { FaTwitter, FaFacebook, FaLinkedin } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Container maxW="container.xl" p={0}>
+    <Container maxW="container.xl" p={0} bg="#fff1e5">
       {/* Navigation Bar */}
       <Flex as="nav" bg="gray.800" color="white" p={4} align="center">
         <Heading as="h1" size="lg" letterSpacing={"tighter"}>
